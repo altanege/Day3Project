@@ -8,5 +8,7 @@ public class AwesomeTest {
     // and now my project is in sync with repository
 
     // Now i made more awesome changes and I am about to push this back to Github
+
+    // added more lines
 }
 
